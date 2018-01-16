@@ -3,7 +3,7 @@ import logger from '../logger';
 import type { FlattenedObjectData } from './Subscription';
 export type Message = { [attr: string]: any };
 
-const dafaultFields = ['className', 'objectId', 'updatedAt', 'createdAt', 'ACL'];
+const dafaultFields = ['className', 'objectId'];
 
 class Client {
   id: number;
