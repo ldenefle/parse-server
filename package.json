@@ -1,11 +1,11 @@
 {
   "name": "parse-server",
-  "version": "2.7.1",
+  "version": "2.7.2",
   "description": "An express module providing a Parse-compatible API server",
   "main": "lib/index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/fourni-j/parse-server"
+    "url": "https://github.com/Fourni-j/parse-server.git"
   },
   "files": [
     "bin/",
